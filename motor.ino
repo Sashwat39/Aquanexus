@@ -1,7 +1,7 @@
 // Pump 1
 const int P1_DIR1 = D1;  // GPIO5
 const int P1_DIR2 = D2;  // GPIO4
-const int P1_PWM  = D3;  // GPIO0 (⚠️ boot-sensitive)
+const int P1_PWM  = D3;  
 
 // Pump 2
 const int P2_DIR1 = D5;  // GPIO14
@@ -9,9 +9,9 @@ const int P2_DIR2 = D6;  // GPIO12
 const int P2_PWM  = D7;  // GPIO13
 
 // Pump 3
-const int P3_DIR1 = D0;  // GPIO16 (no PWM)
-const int P3_DIR2 = D4;  // GPIO2  (⚠️ boot-sensitive)
-const int P3_PWM  = D8;  // GPIO15 (must be LOW at boot)
+const int P3_DIR1 = D0;  
+const int P3_DIR2 = D4;  
+const int P3_PWM  = D8;  
 
 void setup() {
   // Direction pins

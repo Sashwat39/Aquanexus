@@ -190,17 +190,6 @@ Predict the growth stage of spinach plants from captured images.
 * Solar-powered deployment.
 * Mobile application support.
 * Advanced AI-based recommendation system. 
-
----
-
-## Team
-
-* Sashwat Navin
-* Tushar Jain
-* Jasnoorpreet Kaur
-* Ishanpreet Uppal
-* Manish Kumar
-
 ---
 
 ## License
